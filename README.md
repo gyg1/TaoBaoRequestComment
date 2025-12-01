@@ -21,7 +21,7 @@
 
 ### 安装依赖
 
-使用 pip 安装所需的 Python 库：
+使用 pip 安装所需的主要的 Python 库：
 
 ```
 pip install selenium
